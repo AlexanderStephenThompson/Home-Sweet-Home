@@ -1,8 +1,3 @@
-# Data Science
+# Practical Tools
 
-
-## Structured Data
-
-## Semi Structured Data
-
-## Unstructured Data
+Bots, plugins, and extensions. 
