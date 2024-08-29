@@ -1,3 +1,3 @@
-# Garden Manager
+# Home Sweet Home
 
-I'd like to implement IoT features for automation and alerts while also venturing into data science applications to solve more interesting problems and provide unique insights. Probably a web based resource to gain helpful data about gardening
+This is an experimental project to implement a combination of practical skills and best practices we can use in our own home as well as smart home technologies and IoT devices to make our home a better place to live in.
